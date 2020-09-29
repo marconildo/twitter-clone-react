@@ -1,15 +1,13 @@
-<h1>Twitter Clone</h1>
+<h1><center>Twitter Clone</center></h1>
 </br>
 </br>
-</br>
+
 
 <h2>Demonstration</h2></br>
 </br>
 </br>
-</br>
 
 ![Twitter Clone - Google Chrome 2020-09-28 20-53-01](https://user-images.githubusercontent.com/68693408/94612400-701a4400-0279-11eb-8f33-2a191230ffab.gif)
-</br>
 </br>
 </br>
 About 📝</br>
