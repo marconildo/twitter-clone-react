@@ -9,15 +9,13 @@
 </br>
 </br>
 About 📝</br>
-A clone of the Twitter interface developed with ReactJS.
+A clone of the Twitter responsive interface developed with ReactJS. 
 </br>
 </br>
 🖥 Technologies</br>
 ✅ ReactJS</br>
 ✅ TypeScript</br>
 ✅ Styled Components</br>
-✅ Responsive Layout</br>
-
 
 </br>
 ⚙ How to use </br>
