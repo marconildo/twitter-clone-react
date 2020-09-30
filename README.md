@@ -2,7 +2,7 @@
 </br>
 
 
-<h2>Demonstration</h2></br>
+<h2>Demo</h2>
 </br>
 
 ![Twitter Clone - Google Chrome 2020-09-28 20-53-01](https://user-images.githubusercontent.com/68693408/94612400-701a4400-0279-11eb-8f33-2a191230ffab.gif)
@@ -19,7 +19,6 @@ A clone of the Twitter interface developed with ReactJS.
 ✅ Responsive Layout</br>
 
 
-</br>
 </br>
 ⚙ How to use </br>
 </br>
